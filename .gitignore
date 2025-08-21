@@ -1,0 +1,6 @@
+# Ignore Gradle spesific cache directory
+.gradle
+
+# Package files
+*.jar
+*.zip
